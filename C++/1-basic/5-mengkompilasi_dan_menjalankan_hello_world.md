@@ -14,11 +14,11 @@ Contoh pada kode sumber "Hello World".
 g++ hello_world.cpp -o hello_world
 ```
 
-![Compile Hello World Dengan GCC](./images/5.1-compile_hello_world.png)
+![Compile Hello World Dengan GCC](./gambar/5.1-compile_hello_world.png)
 
 Setelah proses kompilasi berhasil dengan ditandai tidak adanya pesan error, maka akan muncul file aplikasi atau binary file hasil dari proses kompilasi tadi yang dapat dijalankan langsung.
 
-![Hasil Kompilasi Kode Sumber Hello World](./images/5.2-hasil_kompilasi_hello_world.png)
+![Hasil Kompilasi Kode Sumber Hello World](./gambar/5.2-hasil_kompilasi_hello_world.png)
 
 ## 5.2 Menjalankan Aplikasi Hello World
 Masih pada terminal yang sama, untuk menjalankan aplikasi hello_world ini gunakan perintah :
@@ -27,6 +27,6 @@ Masih pada terminal yang sama, untuk menjalankan aplikasi hello_world ini gunaka
 ./hello_world
 ```
 
-![Menjalankan Aplikasi hello_world](./images/5.3-eksekusi_hello_world.png)
+![Menjalankan Aplikasi hello_world](./gambar/5.3-eksekusi_hello_world.png)
 
 Terlihat pada terminal tercetak teks "Hello World!" ketika kita menjalankan aplikasi hello_world. Ini menandakan bahwa aplikasi ini berhasil dijalankan tanpa adanya error.

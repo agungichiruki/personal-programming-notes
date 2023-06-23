@@ -8,7 +8,7 @@ Begitu juga dengan IDE, ada banyak sekali pilihan IDE yang bisa digunakan untuk 
 ## 3.1 Text Editor
 Text editor atau IDE adalah aplikasi  Pada catatan ini, saya akan menggunakan IDE Visual Studio Code yang dibuat oleh Microsoft. IDE ini adalah IDE open source dan memiliki banyak tema yang menarik dan plugin yang dapat membantu kita dalam menulis source code C++.
 
-![Homepage Visual Studio Code](./images/3.1-visual_studio_code_homepage.png)
+![Homepage Visual Studio Code](./gambar/3.1-visual_studio_code_homepage.png)
 
 *Homepage Visual Studio Code* 
 
@@ -23,6 +23,6 @@ Jalan perintah dibawah ini pada terminal untuk menginstall compiler GCC.
 sudo apt update && sudo apt install -y gcc
 ```
 
-![Menginstall GCC Dengan Package Manager APT](./images/3.2-install_gcc.png)
+![Menginstall GCC Dengan Package Manager APT](./gambar/3.2-install_gcc.png)
 
 Perintah diatas bisa dijalankan untuk distribusi seluruh distribusi debian, ubuntu, dan turunannya.

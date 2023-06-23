@@ -2,9 +2,13 @@
 C++ adalah salah satu bahasa yang cukup tua yang masih banyak digunakan oleh para programmer hingga saat ini. Beragam aplikasi untuk berbagai platform bisa dibuat menggunakan bahasa ini. Bahasa ini juga cocok dijadikan sebagai bahasa pertama untuk mempelajari pemrograman komputer, karena bahasa memiliki fitur yang cukup lengkap dan mendukung berbagai paradigma pemrograman atau disebut juga multi-paradigm.
 
 ## 1.1 Sekilas Tentang C++
+![Logo C++](./gambar/1.1-c++_logo.png)
+
+*Gambar diatas adalah logo dari bahasa pemrograman C++*
+
 C++ adalah bahasa pemrograman general-purpose tingkat menengah yang dibuat oleh ilmuwan komputer asal Denmark **Bjarne Stroustrup** pada tahun 1979 ketika ia bekerja di laboratorium **AT&T Bell Labs**. Saat itu Stroustrup mengalami masalah ketika ingin mengembangkan sistem operasi **Unix** tepatnya saat  menganalisis kernel Unix yang berhubungan dengan komputasi terdistribusi. Stroustrup kemudian ia teringat dengan tesis Phd yang dulu dikerjakannya, saat itu ia tertarik dengan bahasa **Simula** yang sangat cocok digunakan untuk membuat aplikasi berskala besar. Ini karena varian Simula yaitu Simula 67 mendukung dan menjadi yang pertama menerapkan konsep pemrograman berbasis objek. Tetapi Simula sangat lambat dan dianggap tidak cocok untuk penggunaan sehari-hari.
 
-![Foto Bjarne Stroustrup](./images/1.1-bjarne_stroustrup.jpg)
+![Foto Bjarne Stroustrup](./gambar/1.1-bjarne_stroustrup.jpg)
 
 *Foto diatas adalah Bjarne Stroustup sang pecipta Bahas Pemrograman C++*
 
